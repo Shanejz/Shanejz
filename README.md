@@ -20,11 +20,11 @@ You can find me on these platforms.
 
 ### Languages
 
-[![My Skills](https://skills.thijs.gg/icons?i=dart,kotlin,java&theme=light)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=dart,kotlin,java&theme=light)
 
 ### App Development
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,androidstudio&theme=light)](https://skills.thijs.gg)
+![My Skills](https://skills.thijs.gg/icons?i=flutter,androidstudio&theme=light)
 
 <!-- ## 📈 Github Stats -->
 
