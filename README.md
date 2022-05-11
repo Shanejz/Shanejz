@@ -29,10 +29,10 @@ You can find me on these platforms.
 ## 📈 Github Stats
 
 <a href="https://github.com/Shanejz/Shanejz">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanejz&,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Shanejz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shane's GitHub Stats" />
 </a>
 <a href="https://github.com/Shanejz/Shanejz">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Shanejz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shane's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanejz&,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 </a>
 
 <!--
