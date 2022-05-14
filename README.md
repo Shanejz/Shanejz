@@ -24,7 +24,7 @@ You can find me on these platforms.
 
 ### Tools that I use
 
-![My Skills](https://skills.thijs.gg/icons?i=flutter,vscode,androidstudio&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=flutter,vscode,androidstudio,pycharm&theme=dark)
 
 ## 📈 Github Stats
 
